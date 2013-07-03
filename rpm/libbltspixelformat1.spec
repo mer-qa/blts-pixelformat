@@ -1,10 +1,10 @@
 Name: libbltspixelformat1
 Summary: BLTS pixel format conversion library
-Version: 0.1.5
+Version: 0.1.6
 Release: 1
 License: GPLv2
 Group: Development/Testing
-URL: https://github.com/mer-packages/mcts-blts
+URL: https://github.com/mer-qa/blts-pixelformat
 Source0: %{name}-%{version}.tar.gz
 BuildRequires: libbltscommon-devel
 
