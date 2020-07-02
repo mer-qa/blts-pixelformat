@@ -1,6 +1,6 @@
 Name: libbltspixelformat1
 Summary: BLTS pixel format conversion library
-Version: 0.1.6
+Version: 0.1.7
 Release: 1
 License: GPLv2
 URL: https://github.com/mer-qa/blts-pixelformat
